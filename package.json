@@ -1,0 +1,14 @@
+{
+  "name": "js_module",
+  "version": "1.0.0",
+  "description": "my js_module for study Webpack",
+  "main": "index.js",
+  "scripts": {
+     "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
+}
